@@ -5,6 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=lightcode01-oss&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lightcode01-oss&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcode01-oss&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lightcode01-oss&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lightcode01-oss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
